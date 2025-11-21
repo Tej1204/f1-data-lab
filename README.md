@@ -1,2 +1,2 @@
 # f1-data-lab
-Just getting some simulations and insights for driver laps and car performances
+Running simple simulations and getting some insights within driver laps and car performances for F1. 
